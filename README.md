@@ -1,4 +1,4 @@
 FFT
 ===
 
-FFT algorithms of base-2, base-4, mixed base and TFFT algorithm
+FFT algorithms of base-2, base-4, mixed base and RFFT algorithm
